@@ -1,0 +1,38 @@
+body {
+    background-color: grey;
+}
+#container{
+    background-color: whitesmoke;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#header{
+    background-color: green;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#nav{
+    width: 200px;
+    float: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gainsboro;
+    padding: 0px;
+}
+#main{
+    width: 600px;
+}
+#footer{
+    clear: both;
+    padding: 10px;
+    background-color: rgb(177, 255, 229);
+    color: rgb(0, 0, 0);
+    text-align: right;
+}
+#broasca1{
+    float: left;
+}
